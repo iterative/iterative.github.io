@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Iterative
+plugins:
+- jekyll-redirect-from
