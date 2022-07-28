@@ -20,4 +20,4 @@ git commit
 git push
 ```
 
-2. add a `CNAME` record to `DOMAIN.COM` DNS. Name: `PREFIX`, value: `iterative.github.io`.
+2. add a `CNAME` record to `DOMAIN.COM` DNS. Name: `PREFIX`, value: `iterative.github.io` (ask @iterative/platform for help).
